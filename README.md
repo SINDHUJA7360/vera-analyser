@@ -4,7 +4,7 @@
 
 **Project VERA** is an intelligent, multimodal truth-verification system designed to identify potential stress or deception responses by analyzing physiological signals. By integrating biometric sensors with real-time data analysis, VERA offers a modern, compact, and data-driven alternative to traditional polygraph systems.
 
----
+----
 
 ## 🎯 Project Goals
 * **Portable Monitoring:** A compact system for mobile physiological tracking.
